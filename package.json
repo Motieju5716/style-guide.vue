@@ -1,0 +1,16 @@
+{
+  "name": "style-guide.vue",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "ubugeeei <ubuge1122@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "oxfmt"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.36.0"
+  },
+  "packageManager": "pnpm@10.30.1"
+}
