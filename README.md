@@ -22,7 +22,9 @@ Take what resonates, ignore what doesn't.
 - Do not use JavaScript classes. Prefer plain objects and functions
 - Prefer controlled components. Avoid uncontrolled components that manage their own state internally
 - When handling URLs, always read `baseUrl` from configuration. Never hardcode it
-- Use pnpm, oxlint, oxfmt, tsdown, and Vitest as the standard toolchain
+- Use Vite+ alpha (`vite-plus`) as the standard toolchain and package-management entrypoint
+- Pin the underlying package manager with `packageManager` in `package.json`, and use `vp install` / `vp add` / `vp update` instead of calling `pnpm` directly
+- Use `vp fmt` as the formatter and `vp check` as the default formatting/lint/typecheck command
 - Minimize third-party dependencies. Apart from Pinia, Pinia Colada, and Vue Router, implement it yourself whenever possible
 - Do not introduce layered architecture until truly necessary. Use msw or similar for API mocking instead of abstracting layers for testability
 - Consolidate navigation guards into a single `router.ts` file for a bird's-eye view of routing behavior
